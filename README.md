@@ -16,6 +16,10 @@ This project is designed to be used with VSCode and the Remote Containers extens
 
 The `requirements.txt` file contains all the python dependencies for this project.  The `devcontainer.json` file will automatically install these dependencies when the container is built.
 
+## Credits
+
+This project was forked from the [streamlit-chatgpt-ui](https://github.com/marshmellow77/streamlit-chatgpt-ui) under the MIT license and adapted to the Azure OpenAI Service.
+
 ## Contributing
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
